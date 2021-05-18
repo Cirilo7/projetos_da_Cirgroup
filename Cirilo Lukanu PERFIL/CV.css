@@ -1,4 +1,8 @@
 body{
-    color:darkgrey;
-    
+    background:darkgrey;
+    position: relative;
+}
+
+h1{
+    font-size: medium;
 }
